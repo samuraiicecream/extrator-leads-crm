@@ -112,7 +112,7 @@ class ExatratorVisistas:
 
 
 if __name__ == '__main__':
-    # Busca as variáveis do .env
+  
     url_secreta = os.getenv("URL_SISTEMA")
     usuario_secreto = os.getenv("USUARIO_SISTEMA")
     senha_secreta = os.getenv("SENHA_SISTEMA")
